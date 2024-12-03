@@ -1,5 +1,4 @@
-# EKS-Cluster-with-VPC-Using-Terraform
-
+# Implement EKS Cluster with VPC Using Terraform for Real-time Scalable Infrastructure with Autoscaling Worker Nodes.
 
 
 ## ***Step 2 : Explaining Terraform Configuration Files***

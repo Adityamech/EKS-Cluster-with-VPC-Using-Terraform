@@ -525,6 +525,6 @@ Throughout the project, I followed Terraform best practices:
 ``` shell
 terraform destroy
 ```
-![Screenshot 2024-11-29 211853](https://github.com/user-attachments/assets/0608d917-dbad-4da5-aea1-ef0238370c4f)
-![Screenshot 2024-11-29 211903](https://github.com/user-attachments/assets/3f05fe74-0386-4d1a-83aa-f6648d343e7b)
+
+![Screenshot 2024-12-03 145137](https://github.com/user-attachments/assets/30f388e2-7e97-4af9-8a54-6c43142a6ab9)
 

@@ -501,10 +501,13 @@ Throughout the project, I followed Terraform best practices:
 ![Screenshot 2024-12-03 143905](https://github.com/user-attachments/assets/d88abbdb-c938-4dd4-add2-27650206312a)
 ![Screenshot 2024-12-03 143831](https://github.com/user-attachments/assets/601527d6-0ce3-4f18-8cdd-3d9888d05c03)
 
-- To View Nodes, we need to add Policy :
+- #### To View Nodes, we need to add Policy :
+  
 ![Screenshot 2024-12-03 143636](https://github.com/user-attachments/assets/8bdc1ba6-c0c6-4996-858d-853f5e0db982)
 ![Screenshot 2024-12-03 143704](https://github.com/user-attachments/assets/f8fafc00-07e3-4aeb-967b-fdd001ca0b14)
-Click Add Policy, then "Next"
+
+#### Click Add Policy, then "Next"
+
 ![Screenshot 2024-12-03 143944](https://github.com/user-attachments/assets/fa36521d-03d2-431a-bc21-800ef64f4d04)
 ![Screenshot 2024-12-03 144752](https://github.com/user-attachments/assets/5c5f12b8-8e9c-4b7f-856d-3702484671a7)
 
@@ -516,4 +519,12 @@ Click Add Policy, then "Next"
 ![Screenshot 2024-12-03 144326](https://github.com/user-attachments/assets/6daa7d19-62c4-4a5a-a962-0bc76af98dd6)
 ![Screenshot 2024-12-03 144158](https://github.com/user-attachments/assets/19ac8cdc-51a3-40a3-96b3-9d655a2a5256)
 ![Screenshot 2024-12-03 144031](https://github.com/user-attachments/assets/a628f22d-3907-40c3-882f-7aab9012c483)
+
+
+### Destroy the Infrastructure using command:
+``` shell
+terraform destroy
+```
+![Screenshot 2024-11-29 211853](https://github.com/user-attachments/assets/0608d917-dbad-4da5-aea1-ef0238370c4f)
+![Screenshot 2024-11-29 211903](https://github.com/user-attachments/assets/3f05fe74-0386-4d1a-83aa-f6648d343e7b)
 
